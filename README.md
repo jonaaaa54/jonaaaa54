@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonaaaa54
-- 👀 I’m interested in workgin and learn something new everyday
+- 👀 I’m interested in working and learn something new everyday
 - 🌱 I’m currently learning angular and react
 - 📫 How to reach me in my email account: jonathan.reyes.v@outlook.com
 
